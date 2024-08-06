@@ -1,6 +1,10 @@
 
 # Overview
 
+<p align = "center">
+<img src="media/gripper_function.gif" width="800">
+</p>
+
 -----
 
 # Table of Contents
