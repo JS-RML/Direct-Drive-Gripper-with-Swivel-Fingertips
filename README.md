@@ -165,26 +165,6 @@ If the default mounting does not work for you, it's very easy to make a custom m
 
 ![base_mount](images/base_mount.png)
 
-## Geometry
-
-![geometry](images/gripper_spec.png)
-
-The geometrical parameters can be customized. After you design your custom parts, update the `ddh_driver/config/default.yaml` so the driver can work properly. 
-
-| Parameter | Configuration Path | Unit |
-|----|------|-----|
-| ℓ₁ | `/geometry/l1` | mm |
-| ℓ₂ | `/geometry/l2` | mm |
-| ℓ₃ | `/geometry/l3` | mm |
-| 𝝱 | `/geometry/beta` | degree |
-| 𝛄 | `/geometry/gamma` | degree |
-
-## Fingertip
-
-
-![fingertip](images/fingertip.png)
-
-
 -----
 # Software
 Our software is implemented with **python3** and tested on **Ubuntu**. You can also refer to this website https://docs.odriverobotics.com/v/latest/guides/getting-started.html.
