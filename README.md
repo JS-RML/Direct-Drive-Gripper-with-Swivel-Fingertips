@@ -142,7 +142,7 @@ It should be zero when motor is in [zero position](#zero-position-of-the-motor).
 
 ![gripper_shell](images/gripper_shell.png)
 
-![gripper](images/gripper.png)
+![gripper](images/assemble_digit.png)
 
 <a name="mounting-ur10"></a>
 
