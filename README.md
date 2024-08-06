@@ -133,16 +133,14 @@ It should be zero when motor is in [zero position](#zero-position-of-the-motor).
 
 ## Finger Assembly ⨉ 2
 
-![linkage_joint](images/linkage_joint.png)
-
-![finger](images/finger.png)
+![finger](images/assemble_digit.png)
 
 
 ## Gripper Assembly
 
 ![gripper_shell](images/gripper_shell.png)
 
-![gripper](images/assemble_digit.png)
+![gripper](images/gripper.png)
 
 <a name="mounting-ur10"></a>
 
