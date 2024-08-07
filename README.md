@@ -1,7 +1,7 @@
 
 # Direct-Drive Gripper with Swivel Fingertips
 
-Our latest direct-drive gripper. Compared to [the previous version]([url](https://github.com/JS-RML/ddh_hardware)), the current one adopts swivel fingertips with passive compliance for enhanced adaptiveness.
+Our latest direct-drive gripper. Compared to [the previous version](https://github.com/JS-RML/ddh_hardware), the current one adopts swivel fingertips with passive compliance for enhanced adaptiveness.
 
 <p align = "center">
 <img src="media/gripper_function.gif" width="800">
