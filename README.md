@@ -1,6 +1,8 @@
 
 # Direct-Drive Gripper with Swivel Fingertips
 
+In this project, we have implemented a two-fingered 4-DoF direct-drive hand, inspired by the work "Direct Drive Hands: Force-Motion Transparency in Gripper Design".
+
 <p align = "center">
 <img src="media/gripper_function.gif" width="800">
 </p>
