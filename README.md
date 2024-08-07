@@ -1,7 +1,7 @@
 
 # Direct-Drive Gripper with Swivel Fingertips
 
-In this project, we have implemented a two-fingered 4-DoF direct-drive hand, inspired by the work "Direct Drive Hands: Force-Motion Transparency in Gripper Design".
+Our latest direct-drive gripper. Compared to [the previous version]([url](https://github.com/JS-RML/ddh_hardware)), the current one adopts swivel fingertips with passive compliance for enhanced adaptiveness.
 
 <p align = "center">
 <img src="media/gripper_function.gif" width="800">
