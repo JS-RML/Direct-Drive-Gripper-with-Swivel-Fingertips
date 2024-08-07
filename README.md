@@ -3,7 +3,7 @@
 
 We here introduce our latest direct-drive gripper. Compared to [the previous version](https://github.com/JS-RML/ddh_hardware) that we presented in [ICRA 2023](https://ieeexplore.ieee.org/document/10160263), the current one adopts swivel fingertips with passive compliance for enhanced adaptiveness.
 
-$\color{red}{\textsf{lorem ipsum}}$
+$\color{blue}{\textsf{lorem ipsum}}$
 
 <p align = "center">
 <img src="media/gripper_function.gif" width="800">
