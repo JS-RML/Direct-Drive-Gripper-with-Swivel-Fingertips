@@ -39,7 +39,7 @@ Our latest direct-drive gripper. Compared to [the previous version](https://gith
 
 # Preparation
 <a name="bom"></a>
-## Bill of materials(BOM)
+## Bill of materials (BOM)
 <a name="purchase"></a>
 ### Off-the-shelf parts
 - [T-motor gb54-2](https://store.tmotor.com/goods-445-GB54-2.html) X 4
