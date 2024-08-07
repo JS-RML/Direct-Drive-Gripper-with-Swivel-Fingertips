@@ -1,5 +1,5 @@
 
-# Overview
+# Direct-Drive Gripper with Swivel Fingertips
 
 <p align = "center">
 <img src="media/gripper_function.gif" width="800">
