@@ -37,7 +37,7 @@ Our latest direct-drive gripper. Compared to [the previous version](https://gith
   
 -----
 
-# Hardeware
+# Preparation
 <a name="bom"></a>
 ## Bill of materials(BOM)
 <a name="purchase"></a>
