@@ -67,6 +67,7 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
 - [Rotation limiter](stl/rotation_limiter.stl) X 2
 
 <br/><br/>The gripper is designed to be compatible with Rainbow robotics RB5. For other robot systems, it should be better to design your own adapter plate and coupling.
+$\color{red}{\textsf{Move this statement to those parts that need to be redesigned.}}$
 
 # Actuators
 ## Acutator assembly
