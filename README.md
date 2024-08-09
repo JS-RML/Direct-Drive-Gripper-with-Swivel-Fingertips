@@ -136,6 +136,8 @@ ODrive provides a GUI service for setting up the motordriver. ([Oodrive GUI](htt
   - Soft velocity limit: 10
   - Hard velocity limit: 13.75
   - Torque limit: 0.192
+- Interface
+  - UART(115200)
 
 
 ## Calibrate Zero Position
