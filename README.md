@@ -154,11 +154,6 @@ It should be zero when motor is in [zero position](#zero-position-of-the-motor).
 
 ![gripper_mounted](images/gripper_mounted.png)
 
-
-
-## Validation
-
-
 # Customization
 
 
