@@ -13,7 +13,7 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
 
 # Table of Contents
 
-- [Preparation](#preparation)
+- [Preperation](#preparation)
   - [Bill of Materials (BOM)](#bom)
     - [Off-the-Shelf Parts](#purchase)
     - [3D Printing](#3d-printing)
