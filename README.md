@@ -65,6 +65,7 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
 - [Motor shell](stl/motor_shell.stl) X 1
 - [Motor plate](stl/motorplate.stl) X 4
 - [Proximal link](stl/proximal_link.stl) X 2
+- [Porximal link cap](stl/proximal_link_cap.stl) X 2
 - [Proximal link pillar](stl/proximal_link_pillar.stl) X 2
 - [Rotation limiter](stl/rotation_limiter.stl) X 2
 
