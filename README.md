@@ -113,7 +113,7 @@ We explicitly define the `direction of the rotor` to be the direction the hexago
 
 
 ## Calibrate ODrives
-
+[odrive GUI](https://gui.odriverobotics.com/inspector)
 
 
 ## Calibrate Zero Position
