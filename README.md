@@ -113,7 +113,29 @@ We explicitly define the `direction of the rotor` to be the direction the hexago
 
 
 ## Calibrate ODrives
-ODrive provides a GUI service for setting up the motordriver. ([Oodrive GUI](https://gui.odriverobotics.com/inspector)) You can set up the motordriver using this GUI.
+ODrive provides a GUI service for setting up the motordriver. ([Oodrive GUI](https://gui.odriverobotics.com/inspector)) You can set up the motordriver using this GUI. The configuration parameters are as follow.
+# Power source
+- DC bus overvoltage trip level: 26
+- DC bus undervoltage trip level: 22
+- DC max positive current: 'Leave it blank'
+- DC max negative current: -0.5
+# Motor
+- Type: Gimbal
+- Phase resistance: 2.675
+- Pole pairs: 7
+- KV: 26
+- Current limit: 1
+- Motor calib current: 10
+- Motor calib voltage: 2
+- Lock-in spin current: 10
+# Encoder
+- Type: SPI(AMS protocol)
+- nCS pin: GPIO 12
+# Control mode
+- control mode: Position Control
+- Soft velocity limit: 10
+- Hard velocity limit: 13.75
+- Torque limit: 0.192
 
 
 ## Calibrate Zero Position
