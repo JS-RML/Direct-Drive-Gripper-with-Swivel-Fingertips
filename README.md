@@ -162,7 +162,7 @@ It should be zero when motor is in [zero position](#zero-position-of-the-motor).
 
 ## Finger Assembly ⨉ 2
 
-![finger](images/assemble_digit.png)
+![finger](images/assemble_digit_v2.png)
 
 
 ## Gripper Assembly
