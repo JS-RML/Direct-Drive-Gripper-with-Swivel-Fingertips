@@ -71,9 +71,7 @@ $\color{red}{\textsf{Missing links to the images below.}}$
 
 ## Actuator assembly
 ![motor_with_magnet](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/5e040175-c788-4f34-a4fc-10a2507375e3)
-![motor-plate](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/a4e6c59b-204b-4a37-ac26-49d9a014946f)
-
-![motor-plate](images/assemble_encoder_insert.png)
+![motor-plate](images/assemble_encoder.png)
 ![actuator-module](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/dbabca10-f5ba-419c-b25c-ede33a81a072)
 
 ## Wiring
