@@ -32,8 +32,6 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
   - [Mounting](#mounting-ur10)
 - [Customization](#customization)
   - [Mounting](#custom-mounting)
-  - [Geometry](#geometry)
-  - [Fingertip](#fingertip)
 - [Getting Started](#getting-started)
   
 -----
