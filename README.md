@@ -113,7 +113,7 @@ We explicitly define the `direction of the rotor` to be the direction the hexago
 
 
 ## Calibrate ODrives
-[odrive GUI](https://gui.odriverobotics.com/inspector)
+ODrive provides a GUI service for setting up the motordriver. ([Oodrive GUI](https://gui.odriverobotics.com/inspector)) You can set up the motordriver using this GUI.
 
 
 ## Calibrate Zero Position
