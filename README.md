@@ -30,7 +30,6 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
   - [Finger Assembly ⨉2](#finger)
   - [Gripper Assembly](#gripper-assembly)
   - [Mounting](#mounting-ur10)
-  - [Validation](#validation)
 - [Customization](#customization)
   - [Mounting](#custom-mounting)
   - [Geometry](#geometry)
