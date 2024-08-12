@@ -103,13 +103,13 @@ After successful fabrication, connect the motor encoders and the ODrives.
 
 ### Motor Connection
 Keep the 3-phase connection consistent as shown below.
-![wiring-power](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/cc4497c2-2612-4712-aa77-713b2b987c32)
+![wiring-power](images/wiring_power.png)
 ![motor_odrive](images/motor_odrive.png)
 
 
 ### Odirve S1 Pin map.
-![image](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/b941a3e3-5e0a-4b66-b857-39943b02f62f)
-![image](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/3fbde08a-4801-47a4-b45f-78a1bda7b130)
+![odrive_power](images/odrive_power.png)
+![odrive_pinmap](images/odrive_pinmap.png)
 
 # Motor Calibration
 
