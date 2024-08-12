@@ -13,17 +13,17 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
 
 # Table of Contents
 
-- [Parts](#preparation)
+- [Parts](#parts)
   - [Bill of Materials (BOM)](#bom)
     - [Off-the-Shelf Parts](#purchase)
     - [3D Printing](#3d-printing)
-- [Actuators](#actuators)
-  - [Actuator Assembly ⨉4](#assemble-actuators)
+- [Motors](#motors)
+  - [Motor Subassembly ⨉4](#assemble-actuators)
   - [Wiring](#wiring)
     - [Power Supply](#power-supply)
     - [Encoder Connection](#encoder-connection)
     - [Motor Connection](#Motor-connection)
-  - [Actuator Calibration](#actuator-calibration)
+  - [Motor Calibration](#actuator-calibration)
     - [Calibrate ODrives](#calibrate-odrives)
     - [Calibrate Zero Position](#calibrate-zero-position)
 - [Gripper](#Gripper)
@@ -48,9 +48,8 @@ Prepare for the following parts.
 - [Bearing - outer-diameter = 100mm, inner-diameter = 6mm](https://kr.misumi-ec.com/vona2/detail/221000058378/?KWSearch=%eb%b2%a0%ec%96%b4%eb%a7%81&searchFlow=results2products) X 12
 - [Spring - spring constant = 2.0N/mm, length = 10mm, outer-diameter = 4φ](https://kr.misumi-ec.com/vona2/detail/110310295289/?KWSearch=%ec%8a%a4%ed%94%84%eb%a7%81&searchFlow=results2products&list=PageSearchResult) X 2
 - [Wire terminal box](https://mini.freeship.co.kr/goods/content.asp?guid=14063350&freeship_ep=naver_ep&NaPm=ct%3Dlpapaqwg%7Cci%3Df02b7700f5a0e323cb475c55121ebd49967d7324%7Ctr%3Dsls%7Csn%3D405974%7Chk%3Da901253e6a96e25815c6a2b1212b2f65c958629d) X 1
-- [Shielded cable](https://smartstore.naver.com/bantolmarket/products/10633794496) X 1   $\color{red}{\textsf{Where to purchase this off-the-shelf part?}}$
-- [3-phase cable](https://smartstore.naver.com/shipdiy/products/7890381050?NaPm=ct%3Dlzm5hgao%7Cci%3D4a0c15cee6c5b52f39ab074a9168c12676b30c93%7Ctr%3Dsls%7Csn%3D165091%7Chk%3Ddfd07d72d70e606ba9bf143b348b70408f7f9bef) X 3 $\color{red}{\textsf{Where to purchase this off-the-shelf part?}}$
-
+- [Shielded cable](https://smartstore.naver.com/bantolmarket/products/10633794496) X 1
+- [3-phase cable](https://smartstore.naver.com/shipdiy/products/7890381050?NaPm=ct%3Dlzm5hgao%7Cci%3D4a0c15cee6c5b52f39ab074a9168c12676b30c93%7Ctr%3Dsls%7Csn%3D165091%7Chk%3Ddfd07d72d70e606ba9bf143b348b70408f7f9bef) X 3
 
 ### 3D Printing
 - [Bearing_insert_holder](stl/bearing_insert_holder.stl) X 2
@@ -68,10 +67,11 @@ Prepare for the following parts.
 - [Proximal link pillar](stl/proximal_link_pillar.stl) X 2
 - [Rotation limiter](stl/rotation_limiter.stl) X 2
 
-# Actuators
+# Motors
+Parts related to motors can be put together as follows.
 $\color{red}{\textsf{Missing links to the images below.}}$
 
-## Actuator assembly
+## Motor Subassembly
 ![motor_with_magnet](images/assemble_magnet.png)
 ![motor-plate](images/assemble_encoder.png)
 ![actuator-module](images/assemble_motorplate.png)
@@ -103,7 +103,7 @@ Keep the 3-phase connection consistent as shown below.
 ![image](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/b941a3e3-5e0a-4b66-b857-39943b02f62f)
 ![image](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/3fbde08a-4801-47a4-b45f-78a1bda7b130)
 
-# Actuator Calibration
+# Motor Calibration
 
 Each actuator module require calibration before use. This step __can not__ be done after the gripper is assembled, so do not postpone this step.
 
