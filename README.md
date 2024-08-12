@@ -3,7 +3,7 @@
 
 $\color{red}{\textsf{TOO MANY TYPOS! EACH TYPO IS A DEFECT!}}$
 
-We here introduce our latest direct-drive gripper. Compared to [the previous version](https://github.com/JS-RML/ddh_hardware) that we presented in [ICRA 2023](https://ieeexplore.ieee.org/document/10160263), the current one adopts swivel fingertips with passive compliance for enhanced adaptiveness.
+We here introduce our latest direct-drive gripper. Compared to [the previous version](https://github.com/JS-RML/ddh_hardware) that we presented in [ICRA 2023](https://ieeexplore.ieee.org/document/10160263), the current one adopts swivel fingertips with passive compliance for enhanced adaptiveness. Follow the instructions below to create one. 
 
 <p align = "center">
 <img src="media/gripper_function.gif" width="800">
@@ -13,7 +13,7 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
 
 # Table of Contents
 
-- [Preparation](#preparation)
+- [Parts](#preparation)
   - [Bill of Materials (BOM)](#bom)
     - [Off-the-Shelf Parts](#purchase)
     - [3D Printing](#3d-printing)
@@ -36,7 +36,8 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
   
 -----
 
-# Preparation
+# Parts
+Prepare for the following parts.
 <a name="bom"></a>
 ## Bill of materials (BOM)
 <a name="purchase"></a>
