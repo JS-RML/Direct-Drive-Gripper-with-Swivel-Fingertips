@@ -96,15 +96,15 @@ First connect the DC power supply to the wall plug. Then connect it to the four 
 ### Encoder Connection
 For the encoder connection, we fabricate a cable assembly as shown below in the schematic. It is recommended to verify the connectivity and resistance of each connection to make sure the cables are soldered properly. We also recommend to label each connector like the schematic.
 
-![encoder_wiring](images/encoder_wiring)
-![encoder_odrive](images/encoder_odrive)
+![encoder_wiring](images/encoder_wiring.png)
+![encoder_odrive](images/encoder_odrive.png)
 
 After successful fabrication, connect the motor encoders and the ODrives.
 
 ### Motor Connection
 Keep the 3-phase connection consistent as shown below.
 ![wiring-power](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/cc4497c2-2612-4712-aa77-713b2b987c32)
-![motor_odrive](images/motor_odrive)
+![motor_odrive](images/motor_odrive.png)
 
 
 ### Odirve S1 Pin map.
