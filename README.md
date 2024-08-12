@@ -156,7 +156,7 @@ Put the motor into zero position as show in the diagram below. Press down the ca
 
 ## Finger Assembly ⨉ 2
 
-![finger](images/assemble_digit_v2.png)
+![finger](images/assemble_digit_v3.png)
 
 
 ## Gripper Assembly
