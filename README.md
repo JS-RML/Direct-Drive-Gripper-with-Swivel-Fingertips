@@ -37,6 +37,7 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
 -----
 
 # Parts
+<a name="parts"></a>
 Prepare for the following parts.
 <a name="bom"></a>
 ## Bill of materials (BOM)
