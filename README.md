@@ -149,10 +149,6 @@ Put the motor into zero position as show in the diagram below. Press down the ca
 
 ![zero-stop](images/calib-zero.png)
 
-
-It should be zero when motor is in [zero position](#zero-position-of-the-motor). Also try 90° and 180°. Don't mind the sign at this stage of assembly.
-
-
 # Gripper
 
 <a name="finger"></a>
