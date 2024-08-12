@@ -73,7 +73,7 @@ $\color{red}{\textsf{Missing links to the images below.}}$
 ## Actuator assembly
 ![motor_with_magnet](images/assemble_magnet.png)
 ![motor-plate](images/assemble_encoder.png)
-![actuator-module](images/assemble_motorplate)
+![actuator-module](images/assemble_motorplate.png)
 
 ## Wiring
 The components should be connected following the diagram below. The encoder connection(black) and power connection(green) will be further elaborated.
