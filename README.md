@@ -71,9 +71,9 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
 $\color{red}{\textsf{Missing links to the images below.}}$
 
 ## Actuator assembly
-![motor_with_magnet](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/5e040175-c788-4f34-a4fc-10a2507375e3)
+![motor_with_magnet](images/assemble_magnet.png)
 ![motor-plate](images/assemble_encoder.png)
-![actuator-module](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/dbabca10-f5ba-419c-b25c-ede33a81a072)
+![actuator-module](images/assemble_motorplate)
 
 ## Wiring
 The components should be connected following the diagram below. The encoder connection(black) and power connection(green) will be further elaborated.
