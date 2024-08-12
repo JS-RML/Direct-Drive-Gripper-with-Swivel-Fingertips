@@ -1,5 +1,5 @@
 
-# Direct-Drive Gripper with Swivel Fingertips
+# Direct-Drive Gripper with Swivel Fingertips (2024)
 
 <!-- $\color{red}{\textsf{TOO MANY TYPOS! EACH TYPO IS A DEFECT!}}$ -->
 
