@@ -36,8 +36,8 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
   
 -----
 
-# Parts
 <a name="parts"></a>
+# Parts
 Prepare for the following parts.
 <a name="bom"></a>
 ## Bill of materials (BOM)
@@ -52,6 +52,7 @@ Prepare for the following parts.
 - [Shielded cable](https://smartstore.naver.com/bantolmarket/products/10633794496) X 1
 - [3-phase cable](https://smartstore.naver.com/shipdiy/products/7890381050?NaPm=ct%3Dlzm5hgao%7Cci%3D4a0c15cee6c5b52f39ab074a9168c12676b30c93%7Ctr%3Dsls%7Csn%3D165091%7Chk%3Ddfd07d72d70e606ba9bf143b348b70408f7f9bef) X 3
 
+<a name="3d-printing"></a>
 ### 3D Printing
 - [Bearing_insert_holder](stl/bearing_insert_holder.stl) X 2
 - [Bearing pin](stl/bearing_pin.stl) X 2
