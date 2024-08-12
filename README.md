@@ -159,6 +159,8 @@ Put the motor into zero position as show in the diagram below. Press down the ca
 
 ![zero-stop](images/calib-zero.png)
 
+Check the 'pos_estimate' value of each odrive(ODrive0, ODrive1, ODrive2, ODrive3...) in the 'inspector' tab of the [Odrive GUI](https://gui.odriverobotics.com/inspector) and memorize this value. Later, you will use this value to set motor offset when you create the 'Actuator' object.
+
 ![motor_offset_gui](images/motor_offset_gui.png)
 
 # Gripper
