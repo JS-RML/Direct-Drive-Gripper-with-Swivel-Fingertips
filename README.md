@@ -86,25 +86,25 @@ We need four motor subassemblies. Each one can be assembled as follows.
 
 ## Wiring
 The components should be connected following the diagram below. The encoder connection(black) and power connection(green) will be further elaborated.
- ![wiring](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/b1eb570b-db69-46bb-b7c8-4a5f420e400a)
+ ![wiring](images/wiring.jpg)
 
 ### Power Supply
 First connect the DC power supply to the wall plug. Then connect it to the four ODrive boards, positive to positive, negetaive to negative. There is no on/off button on the boards, plug in the wall plug to turn the system on, unplug to turn it off.
-![power_supply](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/bc16c051-c266-4a65-9b8f-379e4e375e19)
+![power_supply](images/power_supply.png)
 
 
 ### Encoder Connection
 For the encoder connection, we fabricate a cable assembly as shown below in the schematic. It is recommended to verify the connectivity and resistance of each connection to make sure the cables are soldered properly. We also recommend to label each connector like the schematic.
 
-![encoder_wiring](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/379d7f4a-ed02-4407-8f19-85ee1a7e021b)
-![encoder_odrive](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/68662a25-3307-4d92-96bc-fc9e12af4846)
+![encoder_wiring](images/encoder_wiring)
+![encoder_odrive](images/encoder_odrive)
 
 After successful fabrication, connect the motor encoders and the ODrives.
 
 ### Motor Connection
 Keep the 3-phase connection consistent as shown below.
 ![wiring-power](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/cc4497c2-2612-4712-aa77-713b2b987c32)
-![motor_odrive](https://github.com/chahyeonje/PNU-Direct-Drive-Gripper/assets/39438067/5b9be068-62de-4bdd-acf4-04fbe91c0a88)
+![motor_odrive](images/motor_odrive)
 
 
 ### Odirve S1 Pin map.
