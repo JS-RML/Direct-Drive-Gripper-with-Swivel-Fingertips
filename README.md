@@ -1,7 +1,7 @@
 
 # Direct-Drive Gripper with Swivel Fingertips
 
-$\color{red}{\textsf{TOO MANY TYPOS! EACH TYPO IS A DEFECT!}}$
+<--! $\color{red}{\textsf{TOO MANY TYPOS! EACH TYPO IS A DEFECT!}}$ -->
 
 We here introduce our latest direct-drive gripper. Compared to [the previous version](https://github.com/JS-RML/ddh_hardware) that we presented in [ICRA 2023](https://ieeexplore.ieee.org/document/10160263), the current one adopts swivel fingertips with passive compliance for enhanced adaptiveness. Follow the instructions below to create one. 
 
