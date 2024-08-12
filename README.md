@@ -156,6 +156,8 @@ Put the motor into zero position as show in the diagram below. Press down the ca
 
 ## Finger Assembly ⨉ 2
 
+You sholud insert the bearings in the red circle.
+
 ![finger](images/assemble_digit_v3.png)
 
 
