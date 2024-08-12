@@ -18,7 +18,7 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
     - [Off-the-Shelf Parts](#purchase)
     - [3D Printing](#3d-printing)
 - [Motors](#motors)
-  - [Motor Subassembly ⨉4](#assemble-actuators)
+  - [Motor Subassembly](#assemble-actuators)
   - [Wiring](#wiring)
     - [Power Supply](#power-supply)
     - [Encoder Connection](#encoder-connection)
@@ -74,6 +74,7 @@ Parts related to motors can be put together as follows.
 $\color{red}{\textsf{Missing links to the images below.}}$
 
 ## Motor Subassembly
+We need four motor subassemblies. Each one can be assembled as follows.
 ![motor_with_magnet](images/assemble_magnet.png)
 ![motor-plate](images/assemble_encoder.png)
 ![actuator-module](images/assemble_motorplate.png)
