@@ -159,6 +159,8 @@ Put the motor into zero position as show in the diagram below. Press down the ca
 
 ![zero-stop](images/calib-zero.png)
 
+![motor_offset_gui](images/motor_offset_gui.png)
+
 # Gripper
 
 <a name="finger"></a>
