@@ -9,6 +9,11 @@ We here introduce our latest direct-drive gripper. Compared to [the previous ver
 <img src="media/gripper_function.gif" width="800">
 </p>
 
+**Related repos**
+- [**High-Speed Scooping (2024)**](https://github.com/JS-RML/Advanced-high-speed-scooping/tree/main)
+- [**High-Speed Scooping (2022)**](https://github.com/JS-RML/high_speed_scooping)
+- [**Direct-Drive Gripper (2022)**](https://github.com/JS-RML/ddh_hardware)
+
 -----
 
 # Table of Contents
